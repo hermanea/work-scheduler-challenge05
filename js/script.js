@@ -4,7 +4,7 @@ $(function () {
   var hourblocks = JSON.parse(hourblocksString) || [];
 
   var saveBtns = $('.saveBtn');
-  for(var i = 0; i < allSaveBtns.length; i++){
+  for(var i = 0; i < saveBtns.length; i++){
     saveBtns[i].addEventListener("click", function() {
       var newhourblock = {
         id: $(this).parent().attr('id'), 
