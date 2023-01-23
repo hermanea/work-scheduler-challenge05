@@ -15,9 +15,9 @@ The is a web application that allows a user to store to-do items in a daily cale
 
 Below is a link to the deployed application as well as a screen grab of the app.
 
-[Workday Scheduluer]
+[Workday Scheduluer](https://hermanea.github.io/work-scheduler-challenge05/)
 
-![Alt text]()
+![Alt text](./images/screencapture-hermanea-github-io-work-scheduler-challenge05-2023-01-22-20_05_08.png)
 
 ## Credits
 
